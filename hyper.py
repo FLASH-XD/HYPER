@@ -1,0 +1,2 @@
+import hyper
+hyper.main()
