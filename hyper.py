@@ -1,2 +1,2 @@
 import hyper
-hyper.main()
+hyper.Main()
