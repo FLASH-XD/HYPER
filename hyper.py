@@ -1,2 +1,2 @@
 import req
-Main.Hyper()
+apv_check()
